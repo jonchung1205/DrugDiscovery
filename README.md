@@ -1,4 +1,4 @@
-# DrugDiscovery
+# Integrated Bioinformatics Approach for Accelerated Drug Design and QSAR Modeling of Acetyl-CoA Carboxylase
 
 
 Bioinformatics Project: ACC Compound Optimization
